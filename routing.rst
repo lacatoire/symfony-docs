@@ -540,7 +540,7 @@ evaluates them:
         ------------  -------  -------  ---------  ---------
         Name          Method   Scheme   Host       Path
         ------------  -------  -------  ---------  ---------
-        homepage      ANY      http     ANY        /homapage
+        homepage      ANY      http     ANY        /homepage
         contact       GET      https    ANY        /contact
         contact_post  POST     ANY      localhost  /contact
         ------------  -------  -------  ---------  ---------

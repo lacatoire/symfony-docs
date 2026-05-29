@@ -3,7 +3,7 @@ Tree Helper
 
 The Tree Helper allows you to build and display tree structures in the console.
 It's commonly used to render directory hierarchies, but you can also use it to render
-any tree-like content, such us organizational charts, product category trees, taxonomies, etc.
+any tree-like content, such as organizational charts, product category trees, taxonomies, etc.
 
 .. versionadded:: 7.3
 
@@ -52,7 +52,7 @@ inside your console command::
         }
     }
 
-This exampe would output the following:
+This example would output the following:
 
 .. code-block:: terminal
 

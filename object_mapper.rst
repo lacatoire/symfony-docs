@@ -789,7 +789,7 @@ decorator of the ``object_mapper`` service::
 
 .. versionadded:: 7.4
 
-    The feature to decorate the ObjetMapper was introduced in Symfony 7.4.
+    The feature to decorate the ObjectMapper was introduced in Symfony 7.4.
 
 .. _objectmapper-custom-mapping-logic:
 
